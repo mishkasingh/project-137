@@ -1,0 +1,35 @@
+body 
+{
+    background-size: cover;
+}
+
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#note 
+{
+    font-size: 15px;
+    color: black;
+}
+
+#object_name 
+{
+    width: 400px;
+}
+
+#start, #object_status, #number_of_objects 
+{
+    font-size: 18px;
+}
+
+canvas 
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px white;
+}
